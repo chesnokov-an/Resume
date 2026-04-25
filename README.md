@@ -4,7 +4,7 @@
 - chesnokov-an-2017@mail.ru | Telegram: [@al_chesnokov](https://t.me/al_chesnokov) | GitHub: [chesnokov-an](https://github.com/chesnokov-an)
 
 # Желаемая позиция
-Стажёр / Junior-разработчик на Go (рассматриваю также позиции на стыке C++/Go).
+Стажёр / Junior-разработчик на Go (рассматриваю также позиции на стыке C++/Go)
 
 # Образование
 **НИЯУ МИФИ**, Москва
